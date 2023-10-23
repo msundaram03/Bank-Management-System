@@ -1,3 +1,3 @@
 # Bank-Management-System
 
-This program helps us to manage accounts in 
+This program helps us to manage accounts in bank.
